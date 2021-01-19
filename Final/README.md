@@ -1,1 +1,1 @@
-最終報告、rulebase程式碼、KNN的model、KNN程式碼
+最終報告  rulebase程式碼  KNN的model  KNN程式碼
